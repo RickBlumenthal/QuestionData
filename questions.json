@@ -27,7 +27,7 @@
       "Elven-Glass"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "Mithril is correct. Gifted to Bilbo by Thorin Oakenshield in The Hobbit, this armored shirt is in turn given to Frodo upon the hobbits departure from Rivendell. It is amongst the strongest & the most precious metals in all of Middle-earth."
+    "feedback": "Mithril is correct. Gifted to Bilbo by Thorin Oakenshield, it is in turn given to Frodo upon the hobbits departure from Rivendell. It is among the strongest and most precious metals in Middle-earth."
   },
   {
     "question": "What is the name of Frodo’s sword?",
@@ -67,7 +67,7 @@
       "Gollum"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "Gollum is correct. Frodo and Sam do eventually make it all the way into the center of Mount Doom when Frodo is tempted by the Ring one last time. After biting off Frodo's finger, Gollum falls into the fire of Mount Doom, destroying his precious"
+    "feedback": "Gollum is correct. Frodo & Sam make it to the center of Mount Doom when Frodo is tempted by the Ring one last time. After biting off Frodo's finger, he falls into the fire of Mount Doom, & destroys his precious"
   },
   {
     "question": "Where is Legolas home?",
@@ -87,7 +87,7 @@
       "Eowyn"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "Eowyn is correct. The leader of the Nazgul (or Ringwraiths), was the Witch-king of Angmar who was Sauron’s second-in-command through the 2nd and 3rd age. He cannot be defeated by any man. She is victorius when as she says that she is no man"
+    "feedback": "Eowyn is correct. The leader of the Nazgul (or Ringwraiths), was the Witch-king of Angmar who was Sauron’s second-in-command through the 2nd and 3rd age. He cannot be defeated by any man, but she is no man"
   },
   {
     "question": "What is Gimli’s father’s name?",
