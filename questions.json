@@ -37,7 +37,7 @@
       "Sting"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "Sting is correct. Though Frodo’s sword previously belonged to his uncle Bilbo, this weapons history stretched all the way back to the First Age, when it was made in the hidden city of Gondolin by the elves."
+    "feedback": "Sting is correct. Though Frodo’s sword previously belonged to his uncle Bilbo, this weapon's history stretched all the way back to the 1st Age, when it was made in the hidden city of Gondolin by the elves."
   },
   {
     "question": "What was the name of the bridge where Gandalf faced off against the Balrog?",
@@ -104,7 +104,7 @@
     "answers": [
       "The Gathering of the fellowship",
       "The Council of Elrond",
-      "The Gatehring of the Ring"
+      "The Gathering of the Ring"
     ],
     "correctAnswerIndex": 1,
     "feedback": "The Council of Elrond is correct. This meeting give us the Fellowship of the Ring, its nine companions, and the “One does not simply” meme."
