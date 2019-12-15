@@ -1,23 +1,23 @@
 [
   {
-    "question": "Who is never tempted by the One Ring",
+    "question": "Whio is never tempted by the One Ring",
     "answers": [
       "Galadriel",
       "Boromir",
       "Sam"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "The correct answer is Sam. Created by the Dark Lord Sauron during the Second Age, the One Ring is the most powerful artifact in all of Middle-Earth. It was crafted in the fires of Mount Doom, where Sauron integrated a large part of his own soul into the forging, making his fate intertwined with the Ring. Thus, when the Ring is destroyed for good, so is the Dark Lord. Most are drawn to its power, though men consistently prove to be the most susceptible to temptation."
+    "feedback": "The correct answer is Sam. Created by the Dark Lord Sauron the One Ring is the most powerful artifact in all of Middle-Earth. It was crafted in the fires of Mount Doom, where Sauron integrated a large part of his own soul into the forging. Most are drawn to its power, though men consistently prove to be the most susceptible to temptation."
   },
   {
     "question": "What is Merry's full name",
     "answers": [
-      "Meriadoc Brandybuck",
+      "Meriadoc Brnadybuck",
       "Merigreen Took",
       "Meriodo Baggins"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "The correct answer is Meriadoc Brnadybuck. One of the four hobbits of the Fellowship, Merry is actually Frodo’s cousin, as well as one of his closest friends. Though he is often the comic relief character throughout the trilogy, Merry is also one of the smartest amongst his hobbit friends, as in the books, he knows the danger that the One Ring posses to Middle-earth long before Frodo seems to grasp the seriousness of their mission. He was played by Dominic Monaghan in the films, who later went on to play Charlie in the hit ABC series Lost."
+    "feedback": "The correct answer is Meriadoc Brnadybuck. One of the four hobbits of the Fellowship, Merry is actually Frodo’s cousin, as well as one of his closest friends.He was played by Dominic Monaghan in the films."
   },
   {
     "question": "What precious metal is Frodo’s armored shirt made",
@@ -27,7 +27,7 @@
       "Elven-glass"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "The corrrect answer is Mithril. Originally gifted to Bilbo Baggins by Thorin Oakenshield in The Hobbit, this armored shirt is in turn given to Frodo by his uncle upon the hobbits departure from Rivendell. We later learn that the material is amongst the strongest and the most precious in all of Middle-earth, especially because it is far lighter than a typical suit of armor. The material was mined by the dwarves, and the shirt ironically saves Frodo’s life while he is traveling through the Mines of Moria."
+    "feedback": "The corrrect answer is Mithril. Originally gifted to Bilbo Baggins by Thorin Oakenshield in The Hobbit, this armored shirt is in turn given to Frodo by his uncle upon the hobbits departure from Rivendell. It is amongst the strongest and the most precious in all of Middle-earth."
   },
   {
     "question": "What is the name of Frodo’s sword?",
@@ -37,7 +37,7 @@
       "Sting"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "The correct answer is Sting. Though Frodo’s sword previously belonged to his uncle Bilbo, this weapons history stretched all the way back to the First Age, when it was made in the hidden city of Gondolin by the elves. The sword plays a prominent role in The Hobbit, were Bilbo and his fellow dwarves find the weapon, among others, in a trolls’ campsite. In The Lord of the Rings, Bilbo eventually gifts the sword to Frodo in Rivendell, knowing full-well that his nephew now needs it more than him."
+    "feedback": "The correct answer is Sting. Though Frodo’s sword previously belonged to his uncle Bilbo, this weapons history stretched all the way back to the First Age, when it was made in the hidden city of Gondolin by the elves."
   },
   {
     "question": "What was the name of the bridge where Gandalf faced-off against the Balrog?",
@@ -47,7 +47,7 @@
       "The Brandywine Bridge"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "The correct answer is The Bridge Of Khazad-Dum. Over 50 feet long with no railings to guide your or any sunlight to see the way, this is definitely not the type of bridge you’d want to cross when fleeing from a fiery beast. But unfortunately, Gandalf and the rest of the Fellowship have little choice when trying to escape the Mines of Moria, and the grey wizard is forced to have a showdown with the Balrog that’s been chasing them. Though Gandalf at first succeeds in warding off the Balrog, he turns his back on the beast a moment too soon and is pulled down into the abyss."
+    "feedback": "The correct answer is The Bridge Of Khazad-Dum. Over 50 feet long with no railings, Gandalf and the rest of the Fellowship have little choice when trying to escape the Mines of Moria. Though Gandalf at first succeeds in warding off the Balrog here, he turns his back on the beast a moment too soon and is pulled down into the abyss."
   },
   {
     "question": "Where does Frodo first meet Aragorn?",
@@ -57,7 +57,7 @@
       "The Golden Perch"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "The correct answer is Inn of the Prancing Pony. When we first meet the character of Aragorn, he isn’t going under the name of Aragorn at all, but rather that of Strider, a Ranger of the North who first meets up with Frodo and his fellow hobbits during their stay in Bree. Being a close friend of Gandalf the Grey since 2956, Aragorn worked with his fellow Ranger to protect the Shire and its hobbit inhabitants. When he discovers that Frodo holds in his possession the One Ring, he departs with the hobbits from Bree and escorts them to Rivendell."
+    "feedback": "Inn of the Prancing Pony is the correct answer. When we first meet the character of Aragorn, he isn’t going under the name of Aragorn at all, but rather that of Strider, a Ranger of the North who first meets up with Frodo and his fellow hobbits during their stay in Bree. He departs with the hobbits from Bree and escorts them to Rivendell."
   },
   {
     "question": "Who actually destroys the One Ring?",
@@ -67,17 +67,17 @@
       "Gollum"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "Gollum is the correct answer. Even if you’ve seen the trilogy a few times all the way through, it might actually take you a few moments of contemplation to remember who actually destroyed the Ring. Of course, no one could forget that Frodo and Sam do eventually make it all the way into the center of Mount Doom when Frodo is tempted by the Ring one last time. Though it might be easy to blame Frodo for succumbing to its power at the worst possible time, you still have to give him credit for making it the entire way to Mordor without completely losing his mind."
+    "feedback": "Gollum is the correct answer. Frodo and Sam do eventually make it all the way into the center of Mount Doom when Frodo is tempted by the Ring one last time. After biting off Frodo's finger, Gollum falls into the fire of Mount Doom, destroying his precious"
   },
   {
-    "question": "Where is Legolas' home?",
+    "question": "Where is Legolas home?",
     "answers": [
       "Rivendell",
       "Mirkwood",
       "Fanghorn Forest"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "Mirkwood is the correct answer. Though it may seem like an easy question, throughout The Lord of the Rings trilogy we never actually get to see Legolas in his homeland. Instead, we first meet the Sindarin elf when he arrives in Rivendell for the Council of Elrond, where he agrees to join the Fellowship of the Ring despite having to work alongside a dwarf. Though there is already an ancient quarrel between elves and dwarves, the turmoil between Legolas and Gimli is especially bitter at first, with Legolas’s father once imprisoning Gimli’s."
+    "feedback": "Mirkwood is the correct answer. The Lord of the Rings trilogy we never actually get to see Legolas in his homeland. Instead, we first meet the Sindarin elf when he arrives in Rivendell for the Council of Elrond."
   },
   {
     "question": "Who kills the Witch-king of Angmar?",
@@ -87,7 +87,7 @@
       "Eowyn"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "Eowyn is the correct answer. The leader of the Nazgul, also known as Ringwraiths, was the Witch-king of Angmar who served as Sauron’s second-in-command. He was the wraith responsible for stabbing Frodo as Weathertop with a Morgul blade — a wound that would trouble the hobbit for the rest of his days. The Witch-king served Sauron throughout the Second and Third age, unable to be defeated by any man. Eowyn is victorius when she reveals that she is no man"
+    "feedback": "Eowyn is the correct answer. The leader of the Nazgul, also known as Ringwraiths, was the Witch-king of Angmar who served as Sauron’s second-in-command. The Witch-king served Sauron throughout the Second and Third age, unable to be defeated by any man. Eowyn is victorius when she reveals that she is no man"
   },
   {
     "question": "What is Gimli’s father’s name?",
@@ -97,7 +97,7 @@
       "Balin"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "Gloin is the correct answer. The only dwarf member of the Fellowship, Gimli has a strong dislike for Legolas at the start of their journey, just as most dwarfs inherently despise elves. However, there is particularly bad blood between these two members of the Fellowship, as Legolas’s father once imprisoned Gimli’s. Gimli’s father was previously a member of Thorin II Oakenshield’s company who journeyed to Lonely Mountain alongside Bilbo Baggins — as chronicled in The Hobbit. Of course, by the end of Gimli’s journey, Legolas is amongst his closest friends."
+    "feedback": "Gloin is the correct answer. Gimli’s father was previously a member of Thorin II Oakenshield’s company who journeyed to Lonely Mountain alongside Bilbo Baggins."
   },
   {
     "question": "What is the name of the gathering at Rivendell?",
@@ -107,7 +107,7 @@
       "The Gatehring of the Ring"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "The correct answer is The Council of Elrond. Not only did this meeting give us the Fellowship of the Ring and its nine companions, but it also spawned the “One does not simply” meme that has been a staple of the internet ever since. Though many members attend this council, only a few are chosen/ volunteer to escort Frodo to Mordor to attempt to destroy the One Ring. Though bringing the Ring straight to Saruman may not seem like the best idea, Elrond informs the group that there is no other way that the Ring can be destroyed."
+    "feedback": "The correct answer is The Council of Elrond. This meeting give us the Fellowship of the Ring, its nine companions, and the “One does not simply” meme."
   },
     {
     "question": "What is the name of the giant spider that captures Frodo?",
@@ -117,6 +117,6 @@
       "Shelob"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "Shelob is the correct answer. Though Smeagol may fully intend on safely escorting Frodo and Sam into Mordor, Gollum has his own sinister ideas about what to do with the hobbits. This involves leading the pair through a semi-secret passageway into Mordor, where he knows that there is a giant spider’s lair. When Frodo is inevitable captured and wrapped up by the spider’s webbing, Gollum planned to make the One Ring his precious once again, but as we know, Sam swoops in and saves the day, proving Gollum to be a liar all along."
+    "feedback": "Shelob is the correct answer. Though Smeagol may fully intend on safely escorting Frodo and Sam into Mordor, Gollum has his own sinister ideas about what to do with the hobbits."
   }
 ]
