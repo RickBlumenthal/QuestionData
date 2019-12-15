@@ -1,6 +1,6 @@
 [
   {
-    "question": "Whio is never tempted by the One Ring",
+    "question": "Who is never tempted by the One Ring",
     "answers": [
       "Galadriel",
       "Boromir",
@@ -12,7 +12,7 @@
   {
     "question": "What is Merry's full name",
     "answers": [
-      "Meriadoc Brnadybuck",
+      "Meriadoc Brandybuck",
       "Merigreen Took",
       "Meriodo Baggins"
     ],
@@ -57,7 +57,7 @@
       "The Golden Perch"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "Inn of the Prancing Pony is the correct answer. When we first meet the character of Aragorn, he isn’t going under the name of Aragorn at all, but rather that of Strider, a Ranger of the North who first meets up with Frodo and his fellow hobbits during their stay in Bree. Being a close friend of Gandalf the Grey since 2956, Aragorn worked with his fellow Ranger to protect the Shire and its hobbit inhabitants. When he discovers that Frodo holds in his possession the One Ring, he departs with the hobbits from Bree and escorts them to Rivendell."
+    "feedback": "The correct answer is Inn of the Prancing Pony. When we first meet the character of Aragorn, he isn’t going under the name of Aragorn at all, but rather that of Strider, a Ranger of the North who first meets up with Frodo and his fellow hobbits during their stay in Bree. Being a close friend of Gandalf the Grey since 2956, Aragorn worked with his fellow Ranger to protect the Shire and its hobbit inhabitants. When he discovers that Frodo holds in his possession the One Ring, he departs with the hobbits from Bree and escorts them to Rivendell."
   },
   {
     "question": "Who actually destroys the One Ring?",
@@ -70,7 +70,7 @@
     "feedback": "Gollum is the correct answer. Even if you’ve seen the trilogy a few times all the way through, it might actually take you a few moments of contemplation to remember who actually destroyed the Ring. Of course, no one could forget that Frodo and Sam do eventually make it all the way into the center of Mount Doom when Frodo is tempted by the Ring one last time. Though it might be easy to blame Frodo for succumbing to its power at the worst possible time, you still have to give him credit for making it the entire way to Mordor without completely losing his mind."
   },
   {
-    "question": "Where is Legolas home?",
+    "question": "Where is Legolas' home?",
     "answers": [
       "Rivendell",
       "Mirkwood",
