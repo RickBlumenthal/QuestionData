@@ -1,13 +1,13 @@
 [
   {
-    "question": "Who is never tempted by the One Ring",
+    "question": "Whio is never tempted by the One Ring",
     "answers": [
       "Galadriel",
       "Boromir",
       "Sam"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "The correct answer is Sam. The One Ring is the most powerful artifact in all of Middle-Earth. Most are drawn to its power, though men consistently prove to be the most susceptible to temptation."
+    "feedback": "Sam is correct. The One Ring is the most powerful artifact in all of Middle-Earth. Most are drawn to its power, though men consistently prove to be the most susceptible to temptation."
   },
   {
     "question": "What is Merry's full name",
@@ -17,7 +17,7 @@
       "Meriodo Baggins"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "The correct answer is Meriadoc Brnadybuck. One of the four hobbits of the Fellowship, Merry is actually Frodo’s cousin, as well as one of his closest friends.He was played by Dominic Monaghan in the films."
+    "feedback": "Meriadoc Brnadybuck is correct. One of the four hobbits of the Fellowship, Merry is actually Frodo’s cousin, as well as one of his closest friends.He was played by Dominic Monaghan in the films."
   },
   {
     "question": "What precious metal is Frodo’s armored shirt made",
@@ -27,7 +27,7 @@
       "Elven-glass"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "The corrrect answer is Mithril. Originally gifted to Bilbo Baggins by Thorin Oakenshield in The Hobbit, this armored shirt is in turn given to Frodo by his uncle upon the hobbits departure from Rivendell. It is amongst the strongest and the most precious in all of Middle-earth."
+    "feedback": "Mithril is correct. Originally gifted to Bilbo Baggins by Thorin Oakenshield in The Hobbit, this armored shirt is in turn given to Frodo by his uncle upon the hobbits departure from Rivendell. It is amongst the strongest and the most precious in all of Middle-earth."
   },
   {
     "question": "What is the name of Frodo’s sword?",
@@ -37,7 +37,7 @@
       "Sting"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "The correct answer is Sting. Though Frodo’s sword previously belonged to his uncle Bilbo, this weapons history stretched all the way back to the First Age, when it was made in the hidden city of Gondolin by the elves."
+    "feedback": "Sting is correct. Though Frodo’s sword previously belonged to his uncle Bilbo, this weapons history stretched all the way back to the First Age, when it was made in the hidden city of Gondolin by the elves."
   },
   {
     "question": "What was the name of the bridge where Gandalf faced-off against the Balrog?",
@@ -47,7 +47,7 @@
       "The Brandywine Bridge"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "The correct answer is The Bridge Of Khazad-Dum. Though Gandalf at first succeeds in warding off the Balrog here, he turns his back on the beast a moment too soon and is pulled down into the abyss."
+    "feedback": "The Bridge Of Khazad-Dum is correct. Though Gandalf at first succeeds in warding off the Balrog here, he turns his back on the beast a moment too soon and is pulled down into the abyss."
   },
   {
     "question": "Where does Frodo first meet Aragorn?",
@@ -57,7 +57,7 @@
       "The Golden Perch"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "Inn of the Prancing Pony is the correct answer. At first, Aragorn isn’t going under the name of Aragorn , but rather that of Strider. He departs with the hobbits from Bree and escorts them to Rivendell."
+    "feedback": "Inn of the Prancing Pony is correct. At first, Aragorn isn’t going under the name of Aragorn , but rather that of Strider. He departs with the hobbits from Bree and escorts them to Rivendell."
   },
   {
     "question": "Who actually destroys the One Ring?",
@@ -67,7 +67,7 @@
       "Gollum"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "Gollum is the correct answer. Frodo and Sam do eventually make it all the way into the center of Mount Doom when Frodo is tempted by the Ring one last time. After biting off Frodo's finger, Gollum falls into the fire of Mount Doom, destroying his precious"
+    "feedback": "Gollum is correct. Frodo and Sam do eventually make it all the way into the center of Mount Doom when Frodo is tempted by the Ring one last time. After biting off Frodo's finger, Gollum falls into the fire of Mount Doom, destroying his precious"
   },
   {
     "question": "Where is Legolas home?",
@@ -77,7 +77,7 @@
       "Fanghorn Forest"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "Mirkwood is the correct answer. The Lord of the Rings trilogy we never actually get to see Legolas in his homeland. Instead, we first meet the Sindarin elf when he arrives in Rivendell for the Council of Elrond."
+    "feedback": "Mirkwood is correct. The Lord of the Rings trilogy we never actually get to see Legolas in his homeland. Instead, we first meet the Sindarin elf when he arrives in Rivendell for the Council of Elrond."
   },
   {
     "question": "Who kills the Witch-king of Angmar?",
@@ -87,7 +87,7 @@
       "Eowyn"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "Eowyn is the correct answer. The leader of the Nazgul (or Ringwraiths), was the Witch-king of Angmar who was Sauron’s second-in-command. The Witch-king served Sauron throughout the Second and Third age, unable to be defeated by any man. Eowyn is victorius when she reveals that she is no man"
+    "feedback": "Eowyn is correct. The leader of the Nazgul (or Ringwraiths), was the Witch-king of Angmar who was Sauron’s second-in-command. The Witch-king served Sauron throughout the Second and Third age, unable to be defeated by any man. Eowyn is victorius when she reveals that she is no man"
   },
   {
     "question": "What is Gimli’s father’s name?",
@@ -97,7 +97,7 @@
       "Balin"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "Gloin is the correct answer. Gimli’s father was previously a member of Thorin II Oakenshield’s company who journeyed to Lonely Mountain alongside Bilbo Baggins."
+    "feedback": "Gloin is correct. Gimli’s father was previously a member of Thorin II Oakenshield’s company who journeyed to Lonely Mountain alongside Bilbo Baggins."
   },
   {
     "question": "What is the name of the gathering at Rivendell?",
@@ -107,7 +107,7 @@
       "The Gatehring of the Ring"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "The correct answer is The Council of Elrond. This meeting give us the Fellowship of the Ring, its nine companions, and the “One does not simply” meme."
+    "feedback": "The Council of Elrond is correct. This meeting give us the Fellowship of the Ring, its nine companions, and the “One does not simply” meme."
   },
     {
     "question": "What is the name of the giant spider that captures Frodo?",
@@ -117,6 +117,6 @@
       "Shelob"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "Shelob is the correct answer. Though Smeagol may fully intend on safely escorting Frodo and Sam into Mordor, Gollum has his own sinister ideas about what to do with the hobbits."
+    "feedback": "Shelob is correct. Though Smeagol may fully intend on safely escorting Frodo and Sam into Mordor, Gollum has his own sinister ideas about what to do with the hobbits."
   }
 ]
