@@ -7,7 +7,7 @@
       "Sam"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "The correct answer is Sam. Created by the Dark Lord Sauron the One Ring is the most powerful artifact in all of Middle-Earth. It was crafted in the fires of Mount Doom, where Sauron integrated a large part of his own soul into the forging. Most are drawn to its power, though men consistently prove to be the most susceptible to temptation."
+    "feedback": "The correct answer is Sam. The One Ring is the most powerful artifact in all of Middle-Earth. Most are drawn to its power, though men consistently prove to be the most susceptible to temptation."
   },
   {
     "question": "What is Merry's full name",
@@ -47,7 +47,7 @@
       "The Brandywine Bridge"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "The correct answer is The Bridge Of Khazad-Dum. Over 50 feet long with no railings, Gandalf and the rest of the Fellowship have little choice when trying to escape the Mines of Moria. Though Gandalf at first succeeds in warding off the Balrog here, he turns his back on the beast a moment too soon and is pulled down into the abyss."
+    "feedback": "The correct answer is The Bridge Of Khazad-Dum. Though Gandalf at first succeeds in warding off the Balrog here, he turns his back on the beast a moment too soon and is pulled down into the abyss."
   },
   {
     "question": "Where does Frodo first meet Aragorn?",
@@ -57,7 +57,7 @@
       "The Golden Perch"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "Inn of the Prancing Pony is the correct answer. When we first meet the character of Aragorn, he isn’t going under the name of Aragorn at all, but rather that of Strider, a Ranger of the North who first meets up with Frodo and his fellow hobbits during their stay in Bree. He departs with the hobbits from Bree and escorts them to Rivendell."
+    "feedback": "Inn of the Prancing Pony is the correct answer. At first, Aragorn isn’t going under the name of Aragorn , but rather that of Strider. He departs with the hobbits from Bree and escorts them to Rivendell."
   },
   {
     "question": "Who actually destroys the One Ring?",
@@ -87,7 +87,7 @@
       "Eowyn"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "Eowyn is the correct answer. The leader of the Nazgul, also known as Ringwraiths, was the Witch-king of Angmar who served as Sauron’s second-in-command. The Witch-king served Sauron throughout the Second and Third age, unable to be defeated by any man. Eowyn is victorius when she reveals that she is no man"
+    "feedback": "Eowyn is the correct answer. The leader of the Nazgul (or Ringwraiths), was the Witch-king of Angmar who was Sauron’s second-in-command. The Witch-king served Sauron throughout the Second and Third age, unable to be defeated by any man. Eowyn is victorius when she reveals that she is no man"
   },
   {
     "question": "What is Gimli’s father’s name?",
